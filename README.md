@@ -14,20 +14,6 @@ I’m a developer passionate about building web applications, APIs, cloud soluti
 
 ⸻
 
-🛠️ Tech Stack
-
-Languages
-
-Frontend
-
-Backend
-
-Databases
-
-DevOps & Cloud
-
-Cybersecurity
-
 * 🔐 Authentication & Authorization
 * 🛡️ Network Security
 * 🔎 Vulnerability Assessment
@@ -37,16 +23,6 @@ Cybersecurity
 * 🌐 Network Defense
 * 🔑 Identity & Access Management
 * 📋 Security Auditing
-
-⸻
-
-🚀 Featured Projects
-
-⛪ Zomi Catholic Directory
-
-A web directory designed to help users discover and access Catholic churches, organizations, and resources.
-
-Tech: React • Firebase • JavaScript • HTML • CSS
 
 🔗 View Project
 
@@ -58,7 +34,7 @@ My personal developer portfolio showcasing my projects, technical skills, and ex
 
 Tech: HTML • CSS • JavaScript • Responsive Design
 
-🔗 View Portfolio
+🔗 View Portfolio -> www.kmuang.com
 
 ⸻
 
@@ -85,7 +61,7 @@ AI & Automation
 * 🐳 Become highly proficient with Docker & Kubernetes
 * 🤖 Build AI-powered applications
 * 📈 Contribute to open-source projects
-* 💼 Grow into a professional software / cybersecurity role
+* 💼 Grow into a professional software/cybersecurity role
 
 ⸻
 
@@ -102,22 +78,5 @@ I believe the best way to learn technology is by building real projects, solving
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kmuang&show_icons=true&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmuang&theme=tokyonight&hide_border=true" />
-</div>
-
-⸻
-
-🌎 Connect With Me
-
-<div align="center">
-</div>
-
-⸻
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-Keep learning. Keep building. Keep improving.
-
 </div>
 
