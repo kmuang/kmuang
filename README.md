@@ -1,16 +1,123 @@
-## Hi there 👋
+👋 Hi, I’m Khup Muang
 
-<!--
-**kmuang/kmuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer • Cybersecurity • Cloud & DevOps
 
-Here are some ideas to get you started:
+I’m a developer passionate about building web applications, APIs, cloud solutions, and security-focused systems. I enjoy turning ideas into real projects and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Full-Stack Web & Application Development
+* 🔐 Cybersecurity & Network Security
+* ☁️ Cloud, DevOps & Infrastructure
+* 🐳 Docker & Kubernetes
+* 🗄️ SQL & NoSQL Databases
+* 🤖 AI & Automation
+* 🚀 Always building, learning, and improving
+
+⸻
+
+🛠️ Tech Stack
+
+Languages
+
+Frontend
+
+Backend
+
+Databases
+
+DevOps & Cloud
+
+Cybersecurity
+
+* 🔐 Authentication & Authorization
+* 🛡️ Network Security
+* 🔎 Vulnerability Assessment
+* 🧪 Security Testing
+* 📊 Risk Management
+* 🖥️ Linux & Command Line
+* 🌐 Network Defense
+* 🔑 Identity & Access Management
+* 📋 Security Auditing
+
+⸻
+
+🚀 Featured Projects
+
+⛪ Zomi Catholic Directory
+
+A web directory designed to help users discover and access Catholic churches, organizations, and resources.
+
+Tech: React • Firebase • JavaScript • HTML • CSS
+
+🔗 View Project
+
+⸻
+
+💼 Developer Portfolio
+
+My personal developer portfolio showcasing my projects, technical skills, and experience.
+
+Tech: HTML • CSS • JavaScript • Responsive Design
+
+🔗 View Portfolio
+
+⸻
+
+📚 Currently Learning
+
+Cybersecurity
+████████████████████░░  90%
+Full-Stack Development
+████████████████████░░  90%
+Cloud & DevOps
+█████████████████░░░░░  80%
+Docker & Kubernetes
+███████████████░░░░░░░  70%
+AI & Automation
+██████████████░░░░░░░░  70%
+
+⸻
+
+🎯 2026 Goals
+
+* 🚀 Build production-ready applications
+* 🔐 Strengthen cybersecurity skills
+* ☁️ Master cloud infrastructure
+* 🐳 Become highly proficient with Docker & Kubernetes
+* 🤖 Build AI-powered applications
+* 📈 Contribute to open-source projects
+* 💼 Grow into a professional software / cybersecurity role
+
+⸻
+
+🧠 My Development Philosophy
+
+Build it. Break it. Understand it. Improve it.
+
+I believe the best way to learn technology is by building real projects, solving problems, debugging failures, and continuously improving.
+
+⸻
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kmuang&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmuang&theme=tokyonight&hide_border=true" />
+</div>
+
+⸻
+
+🌎 Connect With Me
+
+<div align="center">
+</div>
+
+⸻
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+Keep learning. Keep building. Keep improving.
+
+</div>
+
