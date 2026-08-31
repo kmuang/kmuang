@@ -11,9 +11,6 @@ I’m a developer passionate about building web applications, APIs, cloud soluti
 * 🗄️ SQL & NoSQL Databases
 * 🤖 AI & Automation
 * 🚀 Always building, learning, and improving
-
-⸻
-
 * 🔐 Authentication & Authorization
 * 🛡️ Network Security
 * 🔎 Vulnerability Assessment
@@ -23,16 +20,6 @@ I’m a developer passionate about building web applications, APIs, cloud soluti
 * 🌐 Network Defense
 * 🔑 Identity & Access Management
 * 📋 Security Auditing
-
-🔗 View Project
-
-⸻
-
-💼 Developer Portfolio
-
-My personal developer portfolio showcasing my projects, technical skills, and experience.
-
-Tech: HTML • CSS • JavaScript • Responsive Design
 
 🔗 View Portfolio -> www.kmuang.com
 
