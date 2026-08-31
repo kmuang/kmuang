@@ -56,14 +56,5 @@ AI & Automation
 
 Build it. Break it. Understand it. Improve it.
 
-I believe the best way to learn technology is by building real projects, solving problems, debugging failures, and continuously improving.
-
-⸻
-
-📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kmuang&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmuang&theme=tokyonight&hide_border=true" />
-</div>
+I believe the best way to learn technology is to build real projects, solve problems, debug failures, and continuously improve.
 
