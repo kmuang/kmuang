@@ -25,21 +25,6 @@ I’m a developer passionate about building web applications, APIs, cloud soluti
 
 ⸻
 
-📚 Currently Learning
-
-Cybersecurity
-████████████████████░░  90%
-Full-Stack Development
-████████████████████░░  90%
-Cloud & DevOps
-█████████████████░░░░░  80%
-Docker & Kubernetes
-███████████████░░░░░░░  70%
-AI & Automation
-██████████████░░░░░░░░  70%
-
-⸻
-
 🎯 2026 Goals
 
 * 🚀 Build production-ready applications
