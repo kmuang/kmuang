@@ -6,32 +6,19 @@ I’m a developer passionate about building web applications, APIs, cloud soluti
 
 * 💻 Full-Stack Web & Application Development
 * 🔐 Cybersecurity & Network Security
-* ☁️ Cloud, DevOps & Infrastructure
-* 🐳 Docker & Kubernetes
-* 🗄️ SQL & NoSQL Databases
-* 🤖 AI & Automation
-* 🚀 Always building, learning, and improving
 * 🔐 Authentication & Authorization
 * 🛡️ Network Security
-* 🔎 Vulnerability Assessment
-* 🧪 Security Testing
-* 📊 Risk Management
-* 🖥️ Linux & Command Line
-* 🌐 Network Defense
-* 🔑 Identity & Access Management
-* 📋 Security Auditing
+* 🖥️ Linux CLI
 
 🔗 View Portfolio -> www.kmuang.com
 
 ⸻
 
-🎯 2026 Goals
+🎯 2027 Goals
 
 * 🚀 Build production-ready applications
-* 🔐 Strengthen cybersecurity skills
+* 🔐 Strengthen Cybersecurity skills
 * ☁️ Master cloud infrastructure
-* 🐳 Become highly proficient with Docker & Kubernetes
-* 🤖 Build AI-powered applications
 * 📈 Contribute to open-source projects
 * 💼 Grow into a professional software/cybersecurity role
 
@@ -41,5 +28,4 @@ I’m a developer passionate about building web applications, APIs, cloud soluti
 
 Build it. Break it. Understand it. Improve it.
 
-I believe the best way to learn technology is to build real projects, solve problems, debug failures, and continuously improve.
-
+I believe the best way to learn technology is to build real projects, solve problems, debug failures, and continuously improve
