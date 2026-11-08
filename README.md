@@ -10,20 +10,6 @@ I’m a developer passionate about building web applications, APIs, cloud soluti
 * 🛡️ Network Security
 * 🖥️ Linux CLI
 
-🔗 View Portfolio -> www.kmuang.com
-
-⸻
-
-🎯 2027 Goals
-
-* 🚀 Build production-ready applications
-* 🔐 Strengthen Cybersecurity skills
-* ☁️ Master cloud infrastructure
-* 📈 Contribute to open-source projects
-* 💼 Grow into a professional software/cybersecurity role
-
-⸻
-
 🧠 My Development Philosophy
 
 Build it. Break it. Understand it. Improve it.
