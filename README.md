@@ -1,6 +1,6 @@
 👋 Hi, I’m Khup Muang
 
-Full-Stack Developer • Cybersecurity • Cloud & DevOps
+Full-Stack Developer
 
 I’m a developer passionate about building web applications, APIs, cloud solutions, and security-focused systems. I enjoy turning ideas into real projects and continuously learning new technologies.
 
