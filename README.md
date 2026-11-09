@@ -4,10 +4,9 @@ Full-Stack Developer • Cybersecurity • Cloud & DevOps
 
 I’m a developer passionate about building web applications, APIs, cloud solutions, and security-focused systems. I enjoy turning ideas into real projects and continuously learning new technologies.
 
-* 💻 Full-Stack Web & Application Development
-* 🔐 Cybersecurity & Network Security
-* 🔐 Authentication & Authorization
+* 💻 Full-Stack Development
 * 🛡️ Network Security
+* 🔐 Cybersecurity 
 * 🖥️ Linux CLI
 
 🧠 My Development Philosophy
